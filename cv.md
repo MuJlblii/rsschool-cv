@@ -4,6 +4,9 @@ Junior Frontend Developer
 email: **uropb.86@gmail.com**  
 My [LinkedIn](www.linkedin.com/in/884580231)  
 
+## About me
+I want to learn Frontend development for my opportunity to become fullstack developer on Django backend. 
+
 ## Skills
 * HTML5, CSS3
 * Git, GitHub
